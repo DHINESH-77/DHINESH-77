@@ -33,7 +33,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhinesh_7\&style=for-the-badge\&color=1d2431)
+![Profile Views](https://komarev.com/ghpvc/?username=DHINESH-77\&style=for-the-badge\&color=1d2431)
 
 ---
 
