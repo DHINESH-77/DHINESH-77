@@ -1,100 +1,104 @@
-# 👋 Hi, I'm Dhinesh B
+<h1 align="center">Hey 👋, I'm Dhinesh B</h1>
+<h3 align="center">🚀 ECE Student | Web Developer | Hardware Explorer</h3>
 
-🚀 **ECE Student | Aspiring Web Developer | Future Hardware Innovator**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 BE in Electronics & Communication Engineering
-* 🏫 Sri Eshwar College of Engineering
-* 📍 2nd Year | 4th Semester
-* 💻 Passionate about solving real-world problems through tech
-* ⚡ Currently diving deep into **Data Structures & Algorithms**
-* 🔌 Exploring **hardware + software integration**
+I’m an **Electronics & Communication Engineering student** at *Sri Eshwar College of Engineering*, currently in my **2nd Year (4th Semester)**.
+
+I enjoy building **real-world solutions through technology**, combining both **software and hardware perspectives**.  
+Lately, I’ve been focused on strengthening my **problem-solving skills (DSA)** and exploring **full-stack development**.
+
+I’m particularly interested in creating systems that are not just functional, but **scalable and impactful**.
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 📚 Mastering **DSA (260+ LeetCode problems solved)**
-* 🌐 Strengthening **Full Stack Development**
-* 🔧 Planning my **first impactful hardware project**
+- 📚 Solved **260+ problems on LeetCode**
+- 🌐 Improving **Full Stack Development skills**
+- 🔧 Working towards my **first real-world hardware project**
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DHINESH-77?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Tools
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎟️ Coupon Management System
+A centralized system to manage coupons and promotional offers efficiently.
 
-> A centralized system to manage coupons, discounts, and promotional offers efficiently.
-
-* 🧠 Prevents misuse & revenue leakage
-* 📊 Tracks coupon usage and impact
-* ⚙️ Built with modern web technologies
+- Prevents misuse & revenue leakage  
+- Tracks coupon usage and analytics  
+- Built with modern web stack  
 
 ---
 
 ### 📚 StudySync
+A student collaboration platform for academic resource sharing.
 
-> A student collaboration platform for sharing academic resources.
-
-* 📁 Share notes, PYQs, PDFs
-* 💬 Real-time chat for doubt solving
-* 🔐 Firebase authentication
-* 🏫 Multi-department access system
+- 📁 Share notes, PDFs, PYQs  
+- 💬 Real-time chat system  
+- 🔐 Firebase Authentication  
+- 🏫 Multi-department support  
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-* 🥈 Finalist — **GDG Hackathon 2026**
-* 💪 Solved **260+ LeetCode problems**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DHINESH-77&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Goals
 
-* 🔌 Build a **real-world hardware project**
-* 🌐 Become a **skilled full-stack web developer**
-* 🚀 Create solutions that impact people at scale
-
----
-
-## 📊 GitHub Stats
-
-![Dhinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHINESH-77\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DHINESH-77\&theme=tokyonight)
+- 🔌 Build impactful **hardware + software integrated system**
+- 🌐 Become a strong **full-stack developer**
+- 🚀 Solve **real-world problems at scale**
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [dhinesh9952654131@gmail.com](mailto:dhinesh9952654131@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/dhinesh-b-147777329
+<p>
+  <a href="mailto:dhinesh9952654131@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/dhinesh-b-147777329">💼 LinkedIn</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I’m blending **ECE + Software** to build solutions that actually matter 🌍
-
----
+> Blending **ECE + Software** to build things that actually matter 🌍
