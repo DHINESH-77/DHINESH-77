@@ -53,7 +53,7 @@ I enjoy working on systems that involve **logic, validation, and real-world impa
 * ✔️ Consistent practice in **DSA concepts**
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
+  <img src="https://leetcode-stats.vercel.app/api?username=dhinesh_7&theme=dark" />
 </p>
 
 ---
