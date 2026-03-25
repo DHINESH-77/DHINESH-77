@@ -1,5 +1,9 @@
-<h1 align="center">Hey 👋, I'm Dhinesh B</h1>
-<h3 align="center">🚀 ECE Student | Web Developer | Hardware Explorer</h3>
+<h1 align="center">Hey 👋 I'm Dhinesh</h1>
+<h3 align="center">🚀 ECE Student | Full Stack Developer | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=ECE+Student;Full+Stack+Developer;DSA+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
@@ -11,7 +15,7 @@
 
 I’m an **Electronics & Communication Engineering student** at *Sri Eshwar College of Engineering*, currently in my **2nd Year (4th Semester)**.
 
-I enjoy building **real-world solutions through technology**, combining both **software and hardware perspectives**.  
+I enjoy building **real-world solutions through technology**.
 Lately, I’ve been focused on strengthening my **problem-solving skills (DSA)** and exploring **full-stack development**.
 
 I’m particularly interested in creating systems that are not just functional, but **scalable and impactful**.
@@ -20,16 +24,15 @@ I’m particularly interested in creating systems that are not just functional, 
 
 ## 🚀 What I'm Working On
 
-- 📚 Solved **260+ problems on LeetCode**
-- 🌐 Improving **Full Stack Development skills**
-- 🔧 Working towards my **first real-world hardware project**
+* 📚 Solved **260+ problems on LeetCode**
+* 🌐 Improving **Full Stack Development skills**
 
 ---
 
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DHINESH-77?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" />
 </p>
 
 ---
@@ -37,11 +40,13 @@ I’m particularly interested in creating systems that are not just functional, 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
 </p>
 
 ### ⚙️ Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
@@ -51,21 +56,26 @@ I’m particularly interested in creating systems that are not just functional, 
 ## 📌 Featured Projects
 
 ### 🎟️ Coupon Management System
+
+🔗 https://coupon-management-system-fe3o.onrender.com/
+
 A centralized system to manage coupons and promotional offers efficiently.
 
-- Prevents misuse & revenue leakage  
-- Tracks coupon usage and analytics  
-- Built with modern web stack  
+* Prevents misuse & revenue leakage
+* Tracks coupon usage
+* Built with modern web stack
 
 ---
 
 ### 📚 StudySync
+
+🔗 https://studysync-mvp-techsprint.web.app/login
+
 A student collaboration platform for academic resource sharing.
 
-- 📁 Share notes, PDFs, PYQs  
-- 💬 Real-time chat system  
-- 🔐 Firebase Authentication  
-- 🏫 Multi-department support  
+* 📁 Share notes, PDFs, PYQs
+* 🔐 Firebase Authentication
+* 💬 Real-time features (in progress)
 
 ---
 
@@ -84,9 +94,8 @@ A student collaboration platform for academic resource sharing.
 
 ## 🎯 Goals
 
-- 🔌 Build impactful **hardware + software integrated system**
-- 🌐 Become a strong **full-stack developer**
-- 🚀 Solve **real-world problems at scale**
+* 🌐 Become a strong **full-stack developer**
+* 🚀 Solve **real-world problems at scale**
 
 ---
 
@@ -101,4 +110,4 @@ A student collaboration platform for academic resource sharing.
 
 ## ⚡ Fun Fact
 
-> Blending **ECE + Software** to build things that actually matter 🌍
+> Building real-world solutions through code 💻
