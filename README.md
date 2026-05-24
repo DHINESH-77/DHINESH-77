@@ -126,7 +126,7 @@ A student collaboration platform for sharing notes and PDFs — built during Tec
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DHINESH-77/DHINESH-77/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/DHINESH-77/DHINESH-77/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <div align="center">
