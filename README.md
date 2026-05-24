@@ -12,58 +12,15 @@
 
 # 👨‍💻 About Me
 
+
 ```javascript
 const dhinesh = {
-  pronouns: "he/him",
-
-  code: [
-    "Java",
-    "JavaScript",
-    "TypeScript",
-    "HTML",
-    "CSS"
-  ],
-
-  technologies: {
-    frontend: [
-      "React",
-      "Tailwind CSS",
-      "Vite"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "Spring Boot"
-    ],
-
-    databases: [
-      "MongoDB",
-      "MySQL",
-      "Firebase"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "Cloudinary"
-    ]
-  },
-
-  architecture: [
-    "REST APIs",
-    "real-time systems",
-    "full-stack web apps",
-    "responsive dashboards"
-  ],
-
-
-
-  currentlyBuilding: "scalable backend-driven web platforms",
-
-  challenge: "Improving problem solving and backend engineering daily"
-}
+  role: "Full Stack Developer",
+  stack: ["React", "Node.js", "Spring Boot", "MongoDB"],
+  interests: ["Backend Systems", "Real-Time Apps", "Full Stack Development"],
+  achievements: ["GDG TechSprint Finalist", "280+ LeetCode Problems"],
+  currentlyBuilding: "Scalable web platforms"
+};
 ```
 
 ---
