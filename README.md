@@ -12,10 +12,6 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding" />
-
-# 👨‍💻 About Me
-
 <div align="center">
 <table>
 <tr>
@@ -30,6 +26,9 @@ const dhinesh = {
 };
 ```
 
+- 💻 Building full stack and backend-driven applications  
+- 🧠 Focused on scalable systems and clean architecture  
+- 🚀 Improving DSA and engineering skills daily  
 
 </td>
 
