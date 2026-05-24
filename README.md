@@ -34,7 +34,7 @@ Currently building projects with **MERN**, **Spring Boot**, and **Firebase** whi
 
 - 🥇 **Top 10 Finalist** — GDG × SECE TechSprint 2026
 - 🚀 Cleared **Phase 2** — Guidewire DEVTrails 2026
-- 🧠 Solved **260+ DSA problems** on LeetCode
+- 🧠 Solved **280+ DSA problems** on LeetCode
 - 👨‍💻 Built multiple full stack applications with cloud integrations and real-time features
 
 ---
@@ -150,11 +150,9 @@ A full stack MERN application developed during my internship to manage appointme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DHINESH-77&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -168,21 +166,33 @@ A full stack MERN application developed during my internship to manage appointme
 
 </div>
 
-- Solved **260+ problems** across arrays, recursion, trees, stacks, queues, and dynamic programming
-- Regularly practice algorithmic problem solving on LeetCode
-- Focused on improving backend-oriented thinking and data structure fundamentals
+- Solved **280+ problems** across arrays, recursion, trees, stacks, queues, and dynamic programming
+- Consistently active on LeetCode with regular problem-solving streaks and weekly practice
+- Focused on improving backend-oriented thinking, logic building, and data structure fundamentals
 
 ---
 
 # 🤝 Let's Connect
 
-I'm open to:
-- Internship opportunities
-- Full stack collaborations
-- Hackathons
-- Backend and MERN-based projects
+<div align="center">
 
-📫 Reach me at: **dhinesh9952654131@gmail.com**
+<a href="mailto:dhinesh9952654131@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/DHINESH-77">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/dhinesh_7">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
