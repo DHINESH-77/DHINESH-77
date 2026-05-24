@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Dhinesh%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-Time%20Web%20Platforms&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C6AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+Firebase;Building+real-time+collaborative+platforms;Hackathon+Finalist+%40+GDG+TechSprint+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C6AF7&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+Firebase;Building+real-time+collaborative+platforms;Hackathon+Finalist+%40+GDG+TechSprint+2026" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhinesh_7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinesh9952654131@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhinesh_7)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHINESH-77)
 
 </div>
 
@@ -16,16 +17,16 @@
 
 # 👨‍💻 About Me
 
-I'm a Full Stack Developer focused on building scalable and collaborative web applications with modern frontend frameworks and backend systems.
+I'm a Full Stack Developer focused on building scalable web applications, collaborative platforms, and backend-driven systems using modern JavaScript and Java ecosystems.
 
 I enjoy working on:
 - Real-time systems
-- Backend workflows & APIs
-- Full stack product architecture
-- Collaborative platforms
+- Backend APIs & workflows
+- Full stack architecture
 - Database-driven applications
+- Collaborative platforms
 
-Currently exploring deeper backend engineering concepts while building production-style projects using **MERN**, **Spring Boot**, and **Firebase**.
+Currently building projects with **MERN**, **Spring Boot**, and **Firebase** while improving problem-solving and backend engineering skills.
 
 ---
 
@@ -34,7 +35,7 @@ Currently exploring deeper backend engineering concepts while building productio
 - 🥇 **Top 10 Finalist** — GDG × SECE TechSprint 2026
 - 🚀 Cleared **Phase 2** — Guidewire DEVTrails 2026
 - 🧠 Solved **260+ DSA problems** on LeetCode
-- 👨‍💻 Built multiple full stack applications with real-time features and cloud integrations
+- 👨‍💻 Built multiple full stack applications with cloud integrations and real-time features
 
 ---
 
@@ -42,23 +43,23 @@ Currently exploring deeper backend engineering concepts while building productio
 
 ## 📚 StudySync — Real-Time Academic Collaboration Platform
 
-> Hackathon Finalist Project built during GDG TechSprint 2026
+> Finalist project built during GDG TechSprint 2026
 
-A centralized academic collaboration platform designed to simplify resource sharing and peer-to-peer learning for engineering students.
+StudySync is a centralized academic collaboration platform designed to simplify resource sharing and peer-to-peer learning for students through organized content management and real-time communication workflows.
 
-### ✨ Key Highlights
-- Real-time subject-wise doubt chat system
-- Organized repository for Notes, PDFs, PYQs, and PPTs
-- Department & subject-based navigation architecture
-- Cloudinary-powered file storage system
+### ✨ Key Features
+- Real-time subject-specific doubt chat system
+- Department & subject-based academic organization
+- Unit-wise resource repository for Notes, PDFs, PYQs, and PPTs
+- Cloudinary-powered document storage system
 - Firebase Authentication and real-time synchronization
-- Admin-controlled academic resource management
+- Admin dashboard for moderation and content management
+
+### ⚙️ Architecture
+User → React Frontend → Firebase Auth → Firebase Realtime Database → Cloudinary Storage
 
 ### 🛠 Tech Stack
 `React` `Firebase` `Firebase Auth` `Firebase Realtime DB` `Tailwind CSS` `Cloudinary`
-
-### ⚙️ Architecture
-User → React Frontend → Firebase Auth → Firebase Realtime DB → Cloudinary Storage
 
 ### 🔗 Links
 - 🌐 Live Demo: https://studysync-mvp-techsprint.web.app/dashboard
@@ -68,22 +69,22 @@ User → React Frontend → Firebase Auth → Firebase Realtime DB → Cloudinar
 
 ## 🎟️ Coupon Management System
 
-A backend-driven coupon lifecycle management platform built using Spring Boot with analytics, redemption tracking, and automated validation workflows.
+A backend-focused coupon lifecycle management platform built using Spring Boot with redemption tracking, automated validation workflows, and analytics-driven management features.
 
-### ✨ Key Highlights
+### ✨ Key Features
 - Coupon creation and redemption workflows
 - Expiry validation and usage limit enforcement
 - REST API architecture with Spring Boot
-- Redemption analytics dashboard
-- Session-based authentication with Spring Security
-- MySQL relational database integration
+- Redemption analytics and tracking system
+- Session-based authentication using Spring Security
+- Relational database modeling with MySQL
 
-### 📊 Technical Details
+### 📊 Technical Highlights
 - 28 endpoints across REST APIs and server-rendered modules
 - 4 relational entities with transactional redemption tracking
-- CRUD operations optimized with Spring Data JPA
-- BCrypt password hashing and secure login flow
-- Designed as a monolithic backend architecture
+- CRUD operations using Spring Data JPA
+- BCrypt password hashing and secure authentication flow
+- Monolithic backend architecture with server-side rendering
 
 ### 🛠 Tech Stack
 `Java` `Spring Boot` `Spring Security` `MySQL` `Thymeleaf` `JPA`
@@ -96,14 +97,14 @@ A backend-driven coupon lifecycle management platform built using Spring Boot wi
 
 ## 📅 Appointment Tracker System
 
-A full stack MERN application developed during my internship to manage appointment scheduling workflows and dashboard-based tracking.
+A full stack MERN application developed during my internship to manage appointment scheduling workflows with dashboard-based tracking and REST API integration.
 
 ### ✨ Features
 - Appointment scheduling & management
+- CRUD-based workflow operations
 - RESTful API integration
-- CRUD-based workflow handling
-- Responsive dashboard UI
-- Frontend-backend separation
+- Responsive dashboard interface
+- Frontend-backend architecture separation
 
 ### 🛠 Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
@@ -145,13 +146,15 @@ A full stack MERN application developed during my internship to manage appointme
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9" width="36%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DHINESH-77&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 
 </div>
 
@@ -159,9 +162,15 @@ A full stack MERN application developed during my internship to manage appointme
 
 # 🧠 DSA & Problem Solving
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dhinesh_7?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/dhinesh_7)
+
+</div>
+
 - Solved **260+ problems** across arrays, recursion, trees, stacks, queues, and dynamic programming
 - Regularly practice algorithmic problem solving on LeetCode
-- Focused on improving data structures, logic building, and backend-oriented thinking
+- Focused on improving backend-oriented thinking and data structure fundamentals
 
 ---
 
