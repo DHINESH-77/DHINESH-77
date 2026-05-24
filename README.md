@@ -164,8 +164,6 @@ Full stack MERN application developed during internship for scheduling and manag
 
 # 🤝 Let's Connect
 
-# 🤝 Let's Connect
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhinesh-b-147777329">
