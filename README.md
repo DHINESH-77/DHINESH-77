@@ -1,181 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Dhinesh%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-Time%20Web%20Platforms&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Dhinesh%20B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ECE%20%40%20SECE%20Coimbatore&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C6AF7&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+Firebase;Building+real-time+collaborative+platforms;Hackathon+Finalist+%40+GDG+TechSprint+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+DSA;Top+10+%40+TechSprint+2026+%C2%B7+GDG+%C3%97+SECE;Building+real+products%2C+not+just+tutorials" />
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinesh-b-147777329)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinesh9952654131@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhinesh_7)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHINESH-77)
+![Profile Views](https://komarev.com/ghpvc/?username=DHINESH-77&style=for-the-badge&color=7C6AF7&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<img align="right" alt="Coding" width="380"
+src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Coding Animation" />
+## Hi 👋, I'm Dhinesh B
 
-I'm a Full Stack Developer focused on building scalable web applications, collaborative platforms, and backend-driven systems using modern JavaScript and Java ecosystems.
+### An aspiring Full Stack Developer from India.
 
-I enjoy working on:
-- Real-time systems
-- Backend APIs & workflows
-- Full stack architecture
-- Database-driven applications
-- Collaborative platforms
-
-Currently building projects with **MERN**, **Spring Boot**, and **Firebase** while improving problem-solving and backend engineering skills.
+- 🔭 Currently building with **MERN Stack**
+- 🧠 Solved **260+ problems** on LeetCode
+- 🏆 **Top 10** @ TechSprint 2026 — GDG × SECE
+- 🎯 **Phase 2** @ Guidewire DEVTrails 2026
+- 💡 I focus on real-world systems with clean logic
+- 📫 Reach me: **dhinesh9952654131@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Hackathons
 
-- 🥇 **Top 10 Finalist** — GDG × SECE TechSprint 2026
-- 🚀 Cleared **Phase 2** — Guidewire DEVTrails 2026
-- 🧠 Solved **280+ DSA problems** on LeetCode
-- 👨‍💻 Built multiple full stack applications with cloud integrations and real-time features
-
----
-
-# 🚀 Featured Projects
-
-## 📚 StudySync — Real-Time Academic Collaboration Platform
-
-> Finalist project built during GDG TechSprint 2026
-
-StudySync is a centralized academic collaboration platform designed to simplify resource sharing and peer-to-peer learning for students through organized content management and real-time communication workflows.
-
-### ✨ Key Features
-- Real-time subject-specific doubt chat system
-- Department & subject-based academic organization
-- Unit-wise resource repository for Notes, PDFs, PYQs, and PPTs
-- Cloudinary-powered document storage system
-- Firebase Authentication and real-time synchronization
-- Admin dashboard for moderation and content management
-
-### ⚙️ Architecture
-User → React Frontend → Firebase Auth → Firebase Realtime Database → Cloudinary Storage
-
-### 🛠 Tech Stack
-`React` `Firebase` `Firebase Auth` `Firebase Realtime DB` `Tailwind CSS` `Cloudinary`
-
-### 🔗 Links
-- 🌐 Live Demo: https://studysync-mvp-techsprint.web.app/dashboard
-- 📂 Repository: https://github.com/DHINESH-77/studysync-mvp.git
+| Event | Organizer | Result |
+|---|---|---|
+| TechSprint Hackathon 2026 | Google Developer Groups × SECE | 🥇 Top 10 Finalist |
+| DEVTrails University Hackathon 2026 | Guidewire × EY × NIA | ✅ Cleared to Phase 2 |
 
 ---
 
-## 🎟️ Coupon Management System
+## 🚀 Featured Projects
 
-A backend-focused coupon lifecycle management platform built using Spring Boot with redemption tracking, automated validation workflows, and analytics-driven management features.
+### 🩺 Appointment Tracker
+A full-stack MERN application to schedule and manage appointments with user authentication and a clean dashboard UI.
 
-### ✨ Key Features
-- Coupon creation and redemption workflows
-- Expiry validation and usage limit enforcement
-- REST API architecture with Spring Boot
-- Redemption analytics and tracking system
-- Session-based authentication using Spring Security
-- Relational database modeling with MySQL
+**Stack:** MongoDB · Express · React · Node.js
 
-### 📊 Technical Highlights
-- 28 endpoints across REST APIs and server-rendered modules
-- 4 relational entities with transactional redemption tracking
-- CRUD operations using Spring Data JPA
-- BCrypt password hashing and secure authentication flow
-- Monolithic backend architecture with server-side rendering
-
-### 🛠 Tech Stack
-`Java` `Spring Boot` `Spring Security` `MySQL` `Thymeleaf` `JPA`
-
-### 🔗 Links
-- 🌐 Live Demo: https://coupon-management-system-fe3o.onrender.com/
-- 📂 Repository: https://github.com/DHINESH-77/coupon-management-system.git
+[![GitHub](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/DHINESH-77)
 
 ---
 
-## 📅 Appointment Tracker System
+### 🎟️ Coupon Management System
+Validates, tracks, and controls discount coupon usage — handles expiry, usage limits, and misuse prevention via a RESTful API.
 
-A full stack MERN application developed during my internship to manage appointment scheduling workflows with dashboard-based tracking and REST API integration.
+**Stack:** Node.js · Express · MongoDB
 
-### ✨ Features
-- Appointment scheduling & management
-- CRUD-based workflow operations
-- RESTful API integration
-- Responsive dashboard interface
-- Frontend-backend architecture separation
-
-### 🛠 Tech Stack
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-### 🔗 Links
-- 📂 Frontend: https://github.com/DHINESH-77/appointment-tracker--frontend.git
-- 📂 Backend: https://github.com/DHINESH-77/appointment-tracker--backend.git
+[![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://coupon-management-system-fe3o.onrender.com/)
+[![GitHub](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/DHINESH-77)
 
 ---
 
-# 💻 Tech Stack
+### 📚 StudySync
+A student collaboration platform for sharing notes and PDFs — built during TechSprint 2026 with Firebase auth and real-time features.
 
-<div align="center">
+**Stack:** React · Firebase · Firestore
 
-### Languages
+[![Live](https://img.shields.io/badge/Live_Demo-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://studysync-mvp-techsprint.web.app/login)
+[![GitHub](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/DHINESH-77)
+
+---
+
+## 💻 Tech Stack
+
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Database
+### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools
+### ☁️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-# 🧠 DSA & Problem Solving
-
-<div align="center">
+## 🧠 DSA Progress
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/dhinesh_7?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/dhinesh_7)
 
-</div>
-
-- Solved **280+ problems** across arrays, recursion, trees, stacks, queues, and dynamic programming
-- Consistently active on LeetCode with regular problem-solving streaks and weekly practice
-- Focused on improving backend-oriented thinking, logic building, and data structure fundamentals
-
 ---
 
-# 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinesh9952654131@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhinesh_7)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHINESH-77)
+<img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com?user=DHINESH-77&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=7C6AF7&currStreakLabel=7C6AF7" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9" width="40%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHINESH-77&theme=tokyo-night&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=ffffff&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHINESH-77/DHINESH-77/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</div>
