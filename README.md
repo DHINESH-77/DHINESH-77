@@ -36,10 +36,14 @@ src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621c
 
 ## 🏆 Hackathons
 
+<div align="center">
+
 | Event | Organizer | Result |
 |---|---|---|
 | TechSprint Hackathon 2026 | Google Developer Groups × SECE | 🥇 Top 10 Finalist |
 | DEVTrails University Hackathon 2026 | Guidewire × EY × NIA | ✅ Cleared to Phase 2 |
+
+</div>
 
 ---
 
@@ -76,7 +80,10 @@ A student collaboration platform for sharing notes and PDFs — built during Tec
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 💬 Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -84,10 +91,12 @@ A student collaboration platform for sharing notes and PDFs — built during Tec
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚛️ Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🔧 Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,16 +104,13 @@ A student collaboration platform for sharing notes and PDFs — built during Tec
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Tools & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
----
-
-## 🧠 DSA Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dhinesh_7?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/dhinesh_7)
+</div>
 
 ---
 
@@ -113,9 +119,19 @@ A student collaboration platform for sharing notes and PDFs — built during Tec
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DHINESH-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com?user=DHINESH-77&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=7C6AF7&currStreakLabel=7C6AF7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DHINESH-77&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=7C6AF7&currStreakLabel=7C6AF7" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINESH-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9" width="40%" />
+
+</div>
+
+---
+
+## 🧠 DSA Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dhinesh_7?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/dhinesh_7)
 
 </div>
 
