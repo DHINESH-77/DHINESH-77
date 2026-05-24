@@ -10,6 +10,24 @@
 </div>
 
 ---
+<div align="center">
+  <img src="YOUR_IMAGE_URL_HERE" 
+       alt="Welcome Animation" 
+       style="max-width: 400px; animation: fadeInUp 1.5s ease-out;">
+</div>
+
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
 
 # 👨‍💻 About Me
 
