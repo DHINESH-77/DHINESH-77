@@ -18,7 +18,6 @@ const dhinesh = {
   role: "Full Stack Developer",
   stack: ["React", "Node.js", "Spring Boot", "MongoDB"],
   interests: ["Backend Systems", "Real-Time Apps", "Full Stack Development"],
-  achievements: ["GDG TechSprint Finalist", "280+ LeetCode Problems"],
   currentlyBuilding: "Scalable web platforms"
 };
 ```
