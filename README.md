@@ -12,27 +12,17 @@
 
 # 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding" />
 
 ```javascript
 const dhinesh = {
   role: "Full Stack Developer",
   stack: ["React", "Node.js", "Spring Boot", "MongoDB"],
   interests: ["Backend Systems", "Real-Time Apps", "Full Stack Development"],
+  achievements: ["GDG TechSprint Finalist", "280+ LeetCode Problems"],
   currentlyBuilding: "Scalable web platforms"
 };
 ```
-
----
-
-# 🏆 Achievements
-
-- 🥇 Top 10 Finalist — **GDG × SECE TechSprint 2026**
-- 🚀 Cleared Phase 2 — **Guidewire DEVTrails 2026**
-- 🧠 Solved **280+ DSA problems** on LeetCode
-- 💻 Built multiple full stack applications with real-time workflows and cloud integrations
-
----
-
 # 🚀 Featured Projects
 
 ## 📚 StudySync — Real-Time Academic Collaboration Platform
@@ -174,19 +164,27 @@ Full stack MERN application developed during internship for scheduling and manag
 
 # 🤝 Let's Connect
 
-<div>
+# 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinesh-b-147777329)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinesh9952654131@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dhinesh_7)
-
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHINESH-77)
+<a href="https://www.linkedin.com/in/dhinesh-b-147777329">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:dhinesh9952654131@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/dhinesh_7">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/DHINESH-77">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
----
 
 <div align="center">
 
