@@ -6,30 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C6AF7&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+Firebase;Building+real-time+collaborative+platforms;Hackathon+Finalist+%40+GDG+TechSprint+2026" />
 </p>
 
-
 </div>
 
 ---
-<div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" 
-       alt="Welcome Animation" 
-       style="max-width: 400px; animation: fadeInUp 1.5s ease-out;">
-</div>
-
-<style>
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
 
 # 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Coding Animation" />
 
 I'm a Full Stack Developer focused on building scalable web applications, collaborative platforms, and backend-driven systems using modern JavaScript and Java ecosystems.
 
@@ -41,6 +24,8 @@ I enjoy working on:
 - Collaborative platforms
 
 Currently building projects with **MERN**, **Spring Boot**, and **Firebase** while improving problem-solving and backend engineering skills.
+
+<br clear="right"/>
 
 ---
 
@@ -192,3 +177,5 @@ A full stack MERN application developed during my internship to manage appointme
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHINESH-77)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
