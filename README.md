@@ -23,6 +23,21 @@ const dhinesh = {
   currentlyBuilding: "Scalable web platforms"
 };
 ```
+
+
+<br clear="right"/>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Top 10 Finalist — GDG × SECE TechSprint 2026
+- 🚀 Cleared Phase 2 — Guidewire DEVTrails 2026
+- 🧠 Solved 280+ DSA problems on LeetCode
+- 💻 Built multiple full stack applications with real-time workflows and cloud integrations
+
+---
+
 # 🚀 Featured Projects
 
 ## 📚 StudySync — Real-Time Academic Collaboration Platform
@@ -39,10 +54,6 @@ StudySync is a centralized academic collaboration platform designed to improve r
 - Firebase Authentication & Realtime Database integration
 - Cloudinary-powered document storage
 - Admin dashboard for moderation and management
-
-### ⚙️ Architecture
-
-User → React Frontend → Firebase Auth → Firebase Realtime DB → Cloudinary Storage
 
 ### 🛠 Tech Stack
 
@@ -67,13 +78,6 @@ Backend-focused coupon lifecycle management system built using Spring Boot with 
 - Redemption analytics & transaction history
 - Secure authentication with Spring Security
 - MySQL relational database integration
-
-### 📊 Technical Highlights
-
-- 28 endpoints across APIs and server-rendered modules
-- CRUD workflows using Spring Data JPA
-- Session-based authentication with BCrypt hashing
-- Modular monolithic backend architecture
 
 ### 🛠 Tech Stack
 
@@ -183,6 +187,14 @@ Full stack MERN application developed during internship for scheduling and manag
 </a>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHINESH-77/DHINESH-77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 
 <div align="center">
 
