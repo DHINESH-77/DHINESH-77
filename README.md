@@ -174,7 +174,7 @@ Full stack MERN application developed during internship for scheduling and manag
 
 # 🤝 Let's Connect
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhinesh-b-147777329)
 
